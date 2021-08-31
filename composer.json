@@ -1,0 +1,15 @@
+{
+    "name": "giulianosalles/mini-framework-mvc-php",
+    "authors": [
+        {
+            "name": "Giuliano Salles",
+            "email": "giulianosalles33@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    }
+}
